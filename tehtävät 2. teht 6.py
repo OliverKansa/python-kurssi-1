@@ -10,5 +10,4 @@ koodi2 += str(random.randint(1, 6))
 
 #print
 print("kolmenumeroinen koodi (0-9): ", koodi1)
-print("nelinumeroinen koodi (1-6): ", koodi2)
-
+print("nelinumeroinen koodi (1-6): ",
